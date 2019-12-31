@@ -1,7 +1,8 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Côté Paniers, l'AMAP de Charenton-le-Pont !
+subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
+hero_image: /img/legumesSurBois.jpg
 callouts: home_callouts
 show_sidebar: true
 ---
