@@ -27,6 +27,8 @@ Ces principes et engagements sont à retrouver dans la Charte des AMAP, texte de
 
 # L'AMAP en images
 
+Vous pouvez lire en [bande dessinée l'histoire de Gabriel](http://www.amap-idf.org/images/imagesFCK/file/1reseau/communication/amap_bd_version_numerique.pdf){:target="_blank"}, un citoyen qui découvre les AMAP et y prend goût...
+
 TODO à incorporer 
 Cette courte vidéo vous permettra de comprendre en quelques mots l'objet de l'AMAP, ainsi que le rôle d'un réseau comme le réseau AMAP Ile de France !
 
