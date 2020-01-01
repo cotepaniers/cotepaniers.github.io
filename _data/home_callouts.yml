@@ -1,11 +1,21 @@
 style: is-light
+height: is-small
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fab fa-github
+  - title: Contactez nous
+    subtitle: Pour vous renseigner ou adhérer
+    icon: fa-id-card-alt
+    description: Nous serons ravis de discuter avec vous !
+    call_to_action_name: Nous contacter
+    call_to_action_link: /page_formulaireAdherer/
+  - title: Essayer sans vous engager
+    subtitle: Devenez intermittent du panier
+    icon: fa fa-heart
+    description: Soyez informé de paniers dispo ponctuellement
+    call_to_action_name: Rejoindre la liste
+    call_to_action_link: /page_formulaireEssayer/
+  - title: Accès adhérents
+    subtitle: Accès à AmapJ
+    icon: fa fa-laptop
+    description: Pour gérer ses contrats, voir ses livraisons...
+    call_to_action_name: Accès Adhérent
+    call_to_action_link: https://contrats2.amapj.fr/p/charenton
