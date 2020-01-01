@@ -17,13 +17,13 @@
     - name: Récapitulatif
       link: /products/
     - name: Légumes
-      link: /page-2/
+      link: /products/legumes/
     - name: Produits laitiers
-      link: /page-3/
+      link: /products/laitages/
     - name: Oeufs
-      link: /page-4/
+      link: /products/oeufs/
     - name: Poulets
-      link: /page-5/
+      link: /products/poulets/
 - name: Fonctionnement
   link: /#
   dropdown:
