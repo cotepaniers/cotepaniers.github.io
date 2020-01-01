@@ -1,5 +1,5 @@
 ---
-title: Panier de légumes
+title: Panier de légumes bio
 subtitle: Les légumes bio de Bruno
 description: Panier de légumes bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/BrunoLabonne.jpg
@@ -16,6 +16,7 @@ features:
     - label: En demi-panier ou en panier complet, toutes les semaines ou tous les 15 jours.
       icon: fa-fighter-jet
 rating: 5
+ordre: 1
 ---
 
 

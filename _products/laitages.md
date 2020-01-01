@@ -1,6 +1,6 @@
 ---
 title: Produits laitiers et fromages
-subtitle: Les produits laitiers de la Fromentellerie
+subtitle: Bio de la Fromentellerie
 description: Panier de produits laitiers bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/YvesDeFromentel.jpg
 hero_height: is-fullwidth
@@ -16,6 +16,7 @@ features:
     - label: On paie à la pièce, on peut commander des produits différents à chaque livraison
       icon: fa-fighter-jet
 rating: 5
+ordre: 2
 ---
 
 
@@ -37,7 +38,7 @@ Ainsi, la complémentarité élevage – production végétale est absolument in
 
 Le contrat produits laitiers est un contrat pour 6 mois, de janvier à juin et de juillet à décembre.
 Le contrat pour le premier semestre 2020 court du 8 janvier au 24 juin soit 13 distributions, mais il est possible de nous rejoindre en cours d'année.
-Il est possible de choisir des ce que l'on veut pour chaque livraison parmi une liste de produits.
+Il est possible de choisir ce que l'on veut pour chaque livraison parmi une liste de produits, et l'on peut choisir des choses différents pour chacune des livraisons. Le paiement se fait en 1 à 3 fois.
 
 Les prix sont les suivants : 
 
