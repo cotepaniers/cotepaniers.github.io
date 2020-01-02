@@ -1,18 +1,22 @@
-- name: Association
-  link: /#
+- name: Accueil
+  link: /
   dropdown:
-    - name: Qu'est-ce qu'une AMAP ?
+    - name: Présentation de l'AMAP de Charenton
+      link: /presentation/
+    - name: Les AMAP et le réseau AMAP Ile de France
       link: /page_definitionAmap/
-    - name: l'AMAP de Charenton
-      link: /page_AmapCharenton/
-    - name: Règlement
-      link: /page-3/
-    - name: Charte
-      link: /page-3/
-    - name: Réseau
+    - name: Réseau A FUSIONNER
       link: /page_reseau/
+    - name: Le bureau
+      link: /page-3/
+    - name: Informations règlementaires
+      link: /page-3/
+    - name: Devenez Intermittent
+      link: /page_intermittents/
+    - name: Adhérez à notre AMAP
+      link: /page_adhesion/
 - name: Producteurs
-  link: /#
+  link: /products/
   dropdown:
     - name: Récapitulatif
       link: /products/
@@ -24,22 +28,25 @@
       link: /products/oeufs/
     - name: Poulets
       link: /products/poulets/
-- name: Fonctionnement
-  link: /#
-  dropdown:
-    - name: Principe
-      link: /page_principe/
-    - name: Distributions
-      link: /page_distributions/
-    - name: Intermittents
-      link: /page_intermittents/
-    - name: Adhérer
-      link: /page_adhesion/
 - name: Adhérer
   link: /page_formulaireAdherer/
-- name: Essayer
-  link: /page_formulaireEssayer/
+  dropdown:
+    - name: Adhérer
+      link: /page_formulaireAdherer/
+    - name: Devenir intermittent
+      link: /page_formulaireEssayer/
 - name: Espace adhérent
-  link: https://contrats2.amapj.fr/p/charenton
+  link: /#
+  dropdown:
+    - name: Inscription nouveaux adhérents
+      link: /page-4/
+    - name: Renouvellement d'adhésion en ligne
+      link: /page-2/
+    - name: Gérer mes contrats avec AmapJ
+      link: https://contrats2.amapj.fr/p/charenton
+    - name: Tutoriel pour l'utilsation d'AmapJ
+      link: /page-1/
 - name: Blog
   link: /blog/
+- name: Contact
+  link: /page-1/
