@@ -3,6 +3,7 @@ title: Produits
 subtitle: Les produits disponibles à Côté Paniers, l'AMAP de Chaernton.
 layout: product-category
 hero_image: /img/legumesSurBois.jpg
+hero_height: is-small
 show_sidebar: false
 sort: ordre
 ---
