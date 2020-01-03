@@ -11,4 +11,11 @@ hero_link_text: Rejoignez nous !
 ---
 
 
+
 ![flyerAmap](/img/flyerAmapCharenton.jpg){:class="img-responsive"}
+
+
+<iframe src="http://player.vimeo.com/video/145967023" frameborder="0" height="360" width="100%" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+
+
