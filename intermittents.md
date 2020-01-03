@@ -16,3 +16,9 @@ La transaction reste toutefois entièrement de la responsabilité de l’adhére
 
 Si vous êtes intéressés pour devenir un "intermittent", remplissez le formulaire dans l'onglet "Essayer", ou écrivez nous à cotepaniers(@)gmail.com. Nous vous mettrons sur la liste de diffusion et vous recevrez les propositions de paniers ponctuels.
 
+ <form>
+         <button type="submit" formaction="/page_formulaireEssayer/">Inscrivez vous sur la liste des intermittents</button>
+      </form>
+
+TODO : styler le bouton
+
