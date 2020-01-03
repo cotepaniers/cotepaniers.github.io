@@ -1,5 +1,5 @@
 ---
-title: Consommer bio, local, responsable, à prix tenu, c'est possible !
+title: Consommez bio, local, responsable, à prix tenu !
 subtitle: Adherez à l'AMAP de Charenton pour bénéficier de nos paniers bio.
 layout: page
 hero_image: /img/legumesSurBois.jpg
