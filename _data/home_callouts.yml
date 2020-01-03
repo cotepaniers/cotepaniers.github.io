@@ -1,21 +1,21 @@
 style: is-light
 height: is-small
 items:
-  - title: Contactez nous
-    subtitle: Pour vous renseigner ou adhérer
+  - title: Retrouvez nous au STC 86 rue de Paris, les mercredis de 19h à 20h
+    subtitle: Pour échanger sur le fonctionnement de l'AMAP
     icon: fa-id-card-alt
     description: Nous serons ravis de discuter avec vous !
     call_to_action_name: Nous contacter
-    call_to_action_link: /page_formulaireAdherer/
+    call_to_action_link: /contact/
   - title: Essayer sans vous engager
     subtitle: Devenez intermittent du panier
     icon: fa fa-heart
     description: Soyez informé de paniers dispo ponctuellement
     call_to_action_name: Rejoindre la liste
-    call_to_action_link: /page_formulaireEssayer/
-  - title: Accès adhérents
-    subtitle: Accès à AmapJ
+    call_to_action_link: /essayer/
+  - title: Nos producteurs ont du talent
+    subtitle: Découvrez les produits disponibles dans notre AMAP
     icon: fa fa-laptop
-    description: Pour gérer ses contrats, voir ses livraisons...
-    call_to_action_name: Accès Adhérent
-    call_to_action_link: https://contrats2.amapj.fr/p/charenton
+    description: Légumes bio, Produits laitiers bio, oeufs bio, poulets bio...
+    call_to_action_name: Les produits disponibles
+    call_to_action_link: /products/

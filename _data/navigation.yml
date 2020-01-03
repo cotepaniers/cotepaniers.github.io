@@ -27,12 +27,12 @@
     - name: Poulets
       link: /products/poulets/
 - name: Adhérer
-  link: /page_formulaireAdherer/
+  link: /adherer/
   dropdown:
     - name: Adhérer
-      link: /page_formulaireAdherer/
+      link: /adherer/
     - name: Devenir intermittent
-      link: /page_formulaireEssayer/
+      link: /intermittents/
 - name: Espace adhérent
   link: /#
   dropdown:
