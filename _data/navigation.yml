@@ -6,13 +6,13 @@
     - name: Les AMAP et le réseau AMAP Ile de France
       link: /lesAmapEtLeReseau/
     - name: Vos interlocuteurs
-      link: /page-3/
-    - name: Informations règlementaires
-      link: /page-3/
+      link: /interlocuteurs/
+    - name: Informations légales
+      link: /infosReglementaires/
+    - name: Adhérez à notre AMAP
+      link: /adherer/
     - name: Devenez Intermittent
       link: /intermittents/
-    - name: Adhérez à notre AMAP
-      link: /page_adhesion/
 - name: Producteurs
   link: /products/
   dropdown:
@@ -34,17 +34,17 @@
     - name: Devenir intermittent
       link: /intermittents/
 - name: Espace adhérent
-  link: /#
+  link: https://contrats2.amapj.fr/p/charenton
   dropdown:
     - name: Inscription nouveaux adhérents
-      link: /page-4/
+      link: /adherer/
     - name: Renouvellement d'adhésion en ligne
-      link: /page-2/
+      link: /renouvellementAdhesion/
     - name: Gérer mes contrats avec AmapJ
       link: https://contrats2.amapj.fr/p/charenton
     - name: Tutoriel pour l'utilsation d'AmapJ
-      link: /page-1/
+      link: /tutorielAmapJ/
 - name: Blog
   link: /blog/
 - name: Contact
-  link: /page-1/
+  link: /contact/
