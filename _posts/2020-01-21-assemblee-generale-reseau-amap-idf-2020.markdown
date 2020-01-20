@@ -5,8 +5,8 @@ date:   2020-01-21 09:00:00
 author: "Alex Salvador"
 categories: reseau
 description: "AMAP reseau Ile de France, IdF, AG, Assemblée Générale 2020, charenton le pont"
-image: /img/blog/blog_20200120_AgReseauAmapIdf2020_900x500.jpg
-hero_image: /img/blog/blog_20200120_AgReseauAmapIdf2020_900x500.jpg
+image: /img/blog/blog_20200121_AgReseauAmapIdf2020_900x500.jpg
+hero_image: /img/blog/blog_20200121_AgReseauAmapIdf2020_900x500.jpg
 hero_height: is-fullwidth
 published: true
 ---
