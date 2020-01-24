@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Présentation de le Budinerie, ferme céréalière produisant farines et pains bio"
+title:  "Présentation de la Budinerie, ferme céréalière produisant farines et pains bio"
 date:   2020-01-24 09:00:00
 author: "Alex Salvador"
 categories: producteurs
