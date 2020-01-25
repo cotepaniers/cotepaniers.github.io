@@ -17,6 +17,8 @@ Le blé est transformé en **farine à la meule de pierre "Du Val D'or"** (farin
 
 Travaillant totalement dans l'esprit durable, bio, circuit court, Rick Vandooren commercialise en vente directe, en contrats AMAP. Ils travaillent déjà avec l'AMAP de Bagneux, d'Issy, l'AMAP du 12ème. C'est le fils de Rick, Théophile, qui s'occupe des AMAP.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGwLIPMFBr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Ils sont en capacité de nous proposer : 
 - **Des pains et des brioches bio**, avec une maitrise totale de la production du blé qu'ils cultivent au produit final.
 - De la **farine bio** en sacs de 3kg ou 5kg
