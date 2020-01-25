@@ -30,3 +30,14 @@ Les membres du bureau sont à votre disposition pour toute question plus spécif
 - Gestion du logiciel AmapJ : Alexandre Salvador
 - Convivialité : Gérard Ville
 
+# Réunions
+
+Des réunions du CA sont organisées régulièrement pour avancer sur l'organisation de l'AMAP, sur la prospection de nouveaux produits, sur le site internet et la communication...
+
+Les adhérents intéressés peuvent participer à ces réunions, écrivez nous à cotepaniers at gmail.com
+
+| Prochaine réunion cette année | Date et heure | Lieu |
+| --- | :---: | :---: |
+| Réunion du CA | Samedi 1er février à 16h | Chez Alexandre |
+
+
