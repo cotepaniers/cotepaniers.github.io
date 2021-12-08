@@ -37,7 +37,7 @@ Les jeunes poules arrivent sur son exploitation à 8 semaines et sont abattus lo
 ## Le contrat
 
 Le contrat oeufs est un contrat à l'année, comme pour les légumes.
-Le contrat 2020 court de janvier à décembre (avec interruption des livraisons en juillet et aout) soit 10 distributions, mais il est possible de nous rejoindre en cours d'année.
+Le contrat 2022 court de janvier à décembre (avec interruption des livraisons en juillet et aout) soit 10 distributions, mais il est possible de nous rejoindre en cours d'année.
 Il est possible de choisir un nombre différent de poulets (0, 1, 2, ...) pour chacune des livraisons.
 
 Le prix est de 22€ le poulet d'environ 2kg. Le paiement se fait en 1 à 3 fois.
