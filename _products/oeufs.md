@@ -3,7 +3,7 @@ title: Oeufs bio
 subtitle: Les bon oeufs bio de Marc
 description: Panier d'oeufs bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/MarcChauvin.jpg
-hero_height: is-medium
+hero_height: is-small
 product_code: Référente Cécile TOUSSAINT
 layout: product
 image: /img/produit_oeufs.jpg
