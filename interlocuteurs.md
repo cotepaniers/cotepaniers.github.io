@@ -15,11 +15,12 @@ Vous pouvez également nous écrire à cotepaniers(@)gmail.com.
 
 # Pour des questions spécifiques
 
-Les membres du bureau sont à votre disposition pour toute question plus spécifique : 
+Les membres du bureau 2022 sont à votre disposition pour toute question plus spécifique : 
 
 - Président : Matthieu Bédué
 - Secrétaire : Marie-Bérengère Lesellier
 - Trésorière : Sophie Berg
+
 - Référent Légumes : Tomas Legon
 - Référente Produits laitiers : Marie-Bérengère Lesellier
 - Référente Oeufs : Cécile Toussaint
