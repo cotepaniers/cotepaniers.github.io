@@ -17,17 +17,17 @@ Vous pouvez également nous écrire à cotepaniers(@)gmail.com.
 
 Les membres du bureau sont à votre disposition pour toute question plus spécifique : 
 
-- Président : Alexandre Salvador
+- Président : Matthieu Bédué
 - Secrétaire : Marie-Bérengère Lesellier
-- Trésorière : Camille Del Cerro
-- Référente Légumes : Sophie Berg
-- Référente Produits laitiers : Pascale Massacrier
-- Référente Oeufs : Isabelle Rixte
+- Trésorière : Sophie Berg
+- Référent Légumes : Tomas Legon
+- Référente Produits laitiers : Marie-Bérengère Lesellier
+- Référente Oeufs : Cécile Toussaint
 - Référent Poulets : Jean-Louis Turbat
-- Gestion des relations avec le Studio Théâtre : Monique Georges
-- Gestion des mails : Camille del Cerro relayée par Sophie Berg pendant ses vacances
-- Gestion du site : Alexandre Salvador
-- Gestion du logiciel AmapJ : Alexandre Salvador
+- Gestion des relations avec le Studio Théâtre : Jean-François Deroubaix et Jean-Louis Turbat
+- Gestion des mails : Remi Franjus
+- Gestion du site : Marie-Bérengère Lesellier
+- Gestion du logiciel AmapJ : Matthieu Bédué
 - Convivialité : Gérard Ville
 
 # Réunions
