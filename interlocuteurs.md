@@ -24,6 +24,8 @@ Les membres du bureau sont à votre disposition pour toute question plus spécif
 - Référente Produits laitiers : Marie-Bérengère Lesellier
 - Référente Oeufs : Cécile Toussaint
 - Référent Poulets : Jean-Louis Turbat
+- Gestion des distributions : Cécile Toussaint
+- Gestion des relations avec la mairie : Marie-Bérengère Lesellier
 - Gestion des relations avec le Studio Théâtre : Jean-François Deroubaix et Jean-Louis Turbat
 - Gestion des mails : Remi Franjus
 - Gestion du site : Marie-Bérengère Lesellier
