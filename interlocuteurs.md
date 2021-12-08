@@ -38,8 +38,6 @@ Des réunions du CA sont organisées régulièrement pour avancer sur l'organisa
 
 Les adhérents intéressés peuvent participer à ces réunions, écrivez nous à cotepaniers at gmail.com
 
-| Prochaine réunion cette année | Date et heure | Lieu |
-| --- | :---: | :---: |
-| Réunion du CA | Samedi 1er février à 16h | Chez Alexandre |
+
 
 
