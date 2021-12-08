@@ -15,7 +15,7 @@ show_sidebar: false
 
 - Les chèques de paiement des différents contrats sont demandés au début de chaque adhésion et encaissés conformément au plan de paiement choisi par l'amapien (paiement en 1 à 3 fois, voire 12 fois pour les légumes). L’adhérent s’engage à payer tous les paniers par période mentionnée.
 
-- Il y a des jours où il n y a pas de distribution (le 11 novembre, le 30 décembre), et des périodes où certains producteurs font une interruption (pas d'oeufs en juillet et aout). Ces jours sans distribution sont décrits dans chaque contrat.
+- Il y a des jours où il n y a pas de distribution (jours fériés...) et des périodes où certains producteurs font une interruption. Ces jours sans distribution sont décrits dans chaque contrat.
 
 - Les distributions ont lieu tous les mercredis de 19h à 20h au Studio Théâtre Charenton, 86 rue de Paris à Charenton (en face du Théâtre des 2 rives).
 
