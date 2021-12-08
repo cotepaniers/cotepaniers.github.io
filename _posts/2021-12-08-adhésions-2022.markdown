@@ -5,9 +5,10 @@ date:   2021-12-08 09:00:00
 author: "Marie-Bérengère LESELLIER"
 categories: communication
 description: "AMAP, Côté Paniers, Charenton, adhésions 2022"
-image: /img/blog/blog_20200203_NouveauNomDeDomaine_400x300.png
-hero_image: /img/blog/blog_20200203_NouveauNomDeDomaine_400x300.png
+image: /img/blog/blog_20211206_legumesSurBois_1200x682.jpg
+hero_image: /img/blog/blog_20211206_legumesSurBois_1200x682.jpg
 hero_height: is-fullwidth
+hero_darken: true
 published: true
 ---
 
