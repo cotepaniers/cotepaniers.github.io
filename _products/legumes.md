@@ -4,7 +4,7 @@ subtitle: Les légumes bio de Bruno
 description: Panier de légumes bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/BrunoLabonne.jpg
 hero_height: is-fullwidth
-product_code: Référente Sophie BERG
+product_code: Référent Tomas LEGON
 layout: product
 image: /img/produit_legumes.jpg
 price: 11€ le demi-panier, 22€ le panier
@@ -33,6 +33,6 @@ TODO : exemples de demi paniers.
 ## Le contrat
 
 Le contrat légumes est un contrat à l'année.
-Le contrat 2020 court du 8 janvier au 23 décembre (sauf le 11/11) soit 50 distributions, mais il est possible de nous rejoindre en cours d'année.
+Le contrat 2022 court du 5 janvier au 21 décembre (sauf le 25/05) soit 50 distributions, mais il est possible de nous rejoindre en cours d'année.
 Engagement fixe de un panier ou un demi panier, toutes les semaines ou une semaine sur deux.
-Le prix est de 11€ le demi-panier (pas d’augmentation par rapport à 2019), paiement en 1 à 12 fois.
+Le prix est de 11€ le demi-panier (pas d’augmentation par rapport à 2021), paiement en 1 à 12 fois.
