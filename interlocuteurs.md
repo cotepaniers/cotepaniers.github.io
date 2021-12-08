@@ -20,7 +20,8 @@ Les membres du bureau 2022 sont à votre disposition pour toute question plus sp
 - Président : Matthieu Bédué
 - Secrétaire : Marie-Bérengère Lesellier
 - Trésorière : Sophie Berg
-<br/>
+
+
 - Référent Légumes : Tomas Legon
 - Référente Produits laitiers : Marie-Bérengère Lesellier
 - Référente Oeufs : Cécile Toussaint
