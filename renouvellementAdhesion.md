@@ -9,7 +9,7 @@ show_sidebar: false
 
 # Période de renouvellement d'adhésion
 
-Le renouvellement d'adhésion se fera en octobre-novembre 2020 pour l'année 2021.
+Le renouvellement d'adhésion se fera en décembre 2021 pour l'année 2022.
 
 # Vous pouvez adherer par chèque ou directement en ligne
 
