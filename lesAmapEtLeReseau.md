@@ -76,7 +76,7 @@ La charte permet une diversité de pratiques tout en proposant des méthodes pou
 
 La vidéo présente des témoignages d’amapiens et de paysans, qui avaient pour consigne d’exprimer comment ces mots étaient déclinés en pratiques dans leurs partenariats. L’objectif est d’avoir un outil ludique, évolutif, afin de faire partager nos valeurs au plus grand nombre, en rapprochant concepts philosophiques et réalités de notre quotidien, afin de favoriser l’appropriation collective et la diffusion des valeurs de notre mouvement.
 
-# L'AMAP en Band dessinée
+# L'AMAP en bande dessinée
 
 Vous pouvez lire en [bande dessinée l'histoire de Gabriel](http://www.amap-idf.org/images/imagesFCK/file/1reseau/communication/amap_bd_version_numerique.pdf){:target="_blank"}, un citoyen qui découvre les AMAP et y prend goût...
 
@@ -97,3 +97,7 @@ Ces principes et engagements sont à retrouver dans la Charte des AMAP, texte de
 
 ![banderoe-AMAP](/img/banderolePrincipeAMAP.jpg){:class="img-responsive"}
 
+# Les 7 engagements du contrat républicain
+L'AMAP s'engage à respecter mon cul
+
+![flyerAmap](/img/flyerAmapCharenton.jpg){:class="img-responsive"}
