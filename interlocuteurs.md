@@ -9,13 +9,13 @@ show_sidebar: false
 
 # Pour des renseignements généraux
 
-Vous pouvez passer nous voir un membre du CA est présent à chaque distribution pour répondre à vos questions. Voir l'onglet Contact.
+Vous pouvez passer nous voir : un·e membre du CA est présent·e à chaque distribution pour répondre à vos questions. Voir l'onglet Contact.
 
 Vous pouvez également nous écrire à cotepaniers(@)gmail.com.
 
 # Pour des questions spécifiques
 
-Les membres du bureau 2022 sont à votre disposition pour toute question plus spécifique : 
+Les membres du bureau 2023 sont à votre disposition pour toute question plus spécifique : 
 
 - Président : Matthieu Bédué
 - Secrétaire : Marie-Bérengère Lesellier
@@ -38,8 +38,7 @@ Les membres du bureau 2022 sont à votre disposition pour toute question plus sp
 
 # Réunions
 
-Des réunions du CA sont organisées régulièrement pour avancer sur l'organisation de l'AMAP : les membres du CA vous en informeront régulièrement lors des permanences ou via le groupe WhatsApp
-Les adhérents intéressés peuvent participer à ces réunions, écrivez nous à cotepaniers at gmail.com
+Des réunions du CA sont organisées régulièrement pour avancer sur l'organisation de l'AMAP : les adhérent·es intéressé·es peuvent participer à ces réunions. Les membres du CA vous en informeront régulièrement lors des distributions ou via le groupe WhatsApp.
 
 
 
