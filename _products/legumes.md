@@ -7,7 +7,7 @@ hero_height: is-fullwidth
 product_code: Référent Tomas LEGON
 layout: product
 image: /img/produit_legumes.jpg
-price: 11€ le demi-panier, 22€ le panier
+price: 11,50€ le demi-panier, 23€ le panier
 features:
     - label: Cultivés à Gravon en Seine-et-Marne
       icon: fa-location-arrow
@@ -28,11 +28,10 @@ Bruno, est installé à Gravon en Seine-et-Marne. Il cultive des légumes bios s
 
 Les légumes sont variés et comme ils sont de saison, le panier évolue au cours de l'année.
 
-TODO : exemples de demi paniers.
 
 ## Le contrat
 
 Le contrat légumes est un contrat à l'année.
 Le contrat 2022 court du 5 janvier au 21 décembre (sauf le 25/05) soit 50 distributions, mais il est possible de nous rejoindre en cours d'année.
 Engagement fixe de un panier ou un demi panier, toutes les semaines ou une semaine sur deux.
-Le prix est de 11€ le demi-panier (pas d’augmentation par rapport à 2021), paiement en 1 à 12 fois.
+Le prix est de 11,50€ le demi-panier, paiement en 1 à 12 fois.
