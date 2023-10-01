@@ -21,7 +21,9 @@ Les membres du bureau 2023 sont à votre disposition pour toute question plus sp
 - Secrétaire : Marie-Bérengère Lesellier
 - Trésorière : Sophie Berg
 - Trésorière adjointe : Cécile Toussaint
+
 ---
+
 - Référent Légumes : Florence Combacal
 - Référente Produits laitiers : Coralie Duplan-Giraud
 - Référente Oeufs : Manon Laborde
