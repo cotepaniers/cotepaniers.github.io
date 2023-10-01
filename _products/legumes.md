@@ -4,7 +4,7 @@ subtitle: Les légumes bio de Bruno
 description: Panier de légumes bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/BrunoLabonne.jpg
 hero_height: is-fullwidth
-product_code: Référent Tomas LEGON
+product_code: Référente Florence COMBACAL
 layout: product
 image: /img/produit_legumes.jpg
 price: 11,50€ le demi-panier, 23€ le panier
