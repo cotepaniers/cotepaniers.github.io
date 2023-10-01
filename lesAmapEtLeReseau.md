@@ -78,7 +78,7 @@ La vidéo présente des témoignages d’amapiens et de paysans, qui avaient pou
 
 # L'AMAP en bande dessinée
 
-Vous pouvez lire en [bande dessinée l'histoire de Gabriel](http://www.amap-idf.org/images/imagesFCK/file/1reseau/communication/amap_bd_version_numerique.pdf){:target="_blank"}, un citoyen qui découvre les AMAP et y prend goût...
+Vous pouvez lire en [bande dessinée l'histoire de Gabriel](http://www.amap-idf.org/images/imagesFCK/file/1reseau/communication/amap_bd_version_numerique.pdf), un citoyen qui découvre les AMAP et y prend goût...
 
 
 # Les principes de l'AMAP
@@ -95,9 +95,7 @@ A intervalle régulier, les paysan.ne.s de la ferme apportent le fruit de leur t
 
 Ces principes et engagements sont à retrouver dans la Charte des AMAP, texte de référence pour tous les groupes et toutes les fermes se revendiquant en AMAP. 
 
-![banderoe-AMAP](/img/banderolePrincipeAMAP.jpg){:class="img-responsive"}
+![banderoe-AMAP](/img/banderolePrincipeAMAP.jpg)
 
 # Les 7 engagements du contrat républicain
-L'AMAP s'engage à respecter mon cul
-
-![flyerAmap](/img/flyerAmapCharenton.jpg){:class="img-responsive"}
+L'AMAP s'engage à respecter [les 7 engagements du contrat républicain](https://www.associations.gouv.fr/IMG/pdf/faq_cer_fevrier_2023_vf.pdf).
