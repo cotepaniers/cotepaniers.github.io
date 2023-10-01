@@ -9,7 +9,7 @@ show_sidebar: false
 
 # Vous souhaitez adhérer, voici les informations principales :
 
-- Les adhérents sont solidaires de L’agriculteur. l’engagement implique une adhésion pour 1 an et des participations  au fonctionnement de l’AMAP en assurant la permanence des distributions des paniers à plusieurs reprises dans l’année : 4 à 6 distributions au choix par année.
+- Les adhérents sont solidaires de l’agriculteur. L’engagement implique une adhésion pour 1 an et des participations  au fonctionnement de l’AMAP en assurant la permanence des distributions des paniers à plusieurs reprises dans l’année : 4 à 6 distributions au choix par année.
 
 - Vous avez le choix des produits que vous voulez recevoir (légumes, produits laitiers, oeufs, poulets), du volume des paniers que vous souhaitez et de la fréquence (toutes les semaines, toutes les 2 semaines). Tout est bio !
 
@@ -21,30 +21,15 @@ show_sidebar: false
 
 - Les adhésions sont pour l'année civile, les contrats débutant en janvier. Il est cependant possible de nous rejoindre en cours d'année. Une fois votre adhésion concrétisée, nous vous intègrerons à nos listes de diffusion courriel et vous créerons aussi un compte pour acceder à la partie Adhérents du site internet.
 
-- L’adhésion à votre AMAP est de 15 euros par année civile. Elle vous donne droit et accès à tout ce qui se passe dans l’association : contrats avec nos différents producteurs, vote lors de notre AG de fin d’année, visites organisées chez les producteurs…. 
+- L’adhésion à votre AMAP est de 17 euros par année civile. Elle vous donne droit et accès à tout ce qui se passe dans l’association : contrats avec nos différents producteurs, vote lors de notre AG de fin d’année, visites organisées chez les producteurs…. 
 
-# Vous pouvez adherer par chèque en passant nous voir ou directement en ligne
+# Vous pouvez adhérer par chèque en passant nous voir ou directement en ligne
 
-#### Adhérez par chèque en passant nous voir !
+### Adhérez par chèque en passant nous voir :
 Tous les mecredis de 19h à 20h au Studio Théâtre Charenton, 86 rue de Paris.
 
-#### Bientôt vous pourrez adhérez directement en ligne !
-
-# Vous ne pouvez pas encore adhérer ?
-
-#### Devenez intermittent du panier pour bénéficier ponctuellement de paniers bio !
-
-<div style="border: 1px solid #000000; background: #DDECCE; padding: 2rem; color: #281D3A; overflow: hidden; font-weight: 600">
-<form action="https://formspree.io/xnqjlyeb" method="POST">
-  <label>
-  <input type="checkbox" name="_intermittent" value="yes" checked> Inscrivez moi sur la liste des "Intermittents du panier" !      
-  </label>
-  <label>
-    <input type="text" name="_replyto" placeholder="Votre Email" required>
-  </label>
-  <button type="submit" style="font-size: 18px; font-weight: 600;">Envoyer</button>
-</form>
-</div>
+### Adhérez directement en ligne à <a href="https://www.helloasso.com/associations/cote-paniers-amap-charenton/adhesions/adhesion-cote-paniers-2023
+">ce lien</a>
 
 #### Vous avez encore des questions, contactez nous !
 
