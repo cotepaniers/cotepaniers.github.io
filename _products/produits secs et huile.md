@@ -9,7 +9,7 @@ price: Quantité définie par livraison
 features:
     - label: Produits à la ferme des 3 parcelles, à Yères-la-Ville dans le Loiret (45)
       icon: fa-location-arrow
-    - label: Les vaches sont nourries à l’herbe en prairie et au foin produit sur l’exploitation, le lait est de qualité, bio.
+    - label: Exploitation maraîchère et céréalière diversifiée en agriculture biologique
       icon: fa-grin-stars
     - label: On choisit une quantité par type de produit par livraison; 4 distributions par an pour les produits secs - 2 pour l'huile de tournesol
       icon: fa-fighter-jet
