@@ -15,17 +15,16 @@ Vous pouvez également nous écrire à cotepaniers(@)gmail.com.
 
 # Pour des questions spécifiques
 
-Les membres du bureau 2023 sont à votre disposition pour toute question plus spécifique : 
+Les membres du bureau 2024 sont à votre disposition pour toute question plus spécifique : 
 
-- Président : Matthieu Bédué
-- Secrétaire : Marie-Bérengère Lesellier
-- Trésorière : Sophie Berg
-- Trésorière adjointe : Cécile Toussaint
+- Présidente : Sophie Berg
+- Secrétaire : Coralie Duplan-Giraud
+- Trésorière : Michaële Serradura
 
 ---
 
 - Référent Légumes : Florence Combacal
-- Référente Produits laitiers : Coralie Duplan-Giraud
+- Référente Produits laitiers : Marie-Bérengère Lesellier
 - Référente Oeufs : Manon Laborde
 - Référent Poulets : Jean-Louis Turbat
 - Gestion des distributions : Cécile Toussaint
