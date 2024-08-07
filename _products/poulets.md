@@ -1,15 +1,13 @@
 ---
 title: Poulets bio
 subtitle: Les poulets bio de Marc
-description: Poulets, viande bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/MarcChauvin.jpg
 hero_height: is-fullwidth
-product_code: Référente Jean-Louis TURBAT
 layout: product
 image: /img/produit_poulets.jpg
-price: 22€ le poulet d'environ 2kg
+price: 25€ le poulet d'environ 2kg
 features:
-    - label: Des poules élevées à La Ferme de la Cour des Lions, en Seine-et-Marne
+    - label: Des poules élevées à La Ferme de la Cour des Lions, en Seine-et-Marne (77)
       icon: fa-location-arrow
     - label: Des poules élevées en plein air, bio.
       icon: fa-grin-stars
@@ -21,7 +19,7 @@ ordre: 4
 
 - proposés par Marc également, ses 300 poulets disposent de 2 000 m² de prairie en plein air.
 - une fois par mois de janvier à décembre (sauf en juillet et aout) soit 10 distributions
-- 22€ le poulet (qui fait 2 kg environ), paiement en 1 à 3 fois.
+- 25€ le poulet (qui fait 2 kg environ), paiement en 1 à 3 fois.
 - choisissez librement le nombre de poulets que vous souhaitez mois par mois
 
 ## Notre aviculteur
@@ -36,8 +34,10 @@ Les jeunes poules arrivent sur son exploitation à 8 semaines et sont abattus lo
 
 ## Le contrat
 
-Le contrat oeufs est un contrat à l'année, comme pour les légumes.
-Le contrat 2022 court de janvier à décembre (avec interruption des livraisons en juillet et aout) soit 10 distributions, mais il est possible de nous rejoindre en cours d'année.
-Il est possible de choisir un nombre différent de poulets (0, 1, 2, ...) pour chacune des livraisons.
+Le contrat "poulets" est un contrat à l'année, comme pour les légumes.
 
-Le prix est de 22€ le poulet d'environ 2kg. Le paiement se fait en 1 à 3 fois.
+Le contrat court de janvier à décembre (avec interruption des livraisons en juillet et aout) soit 10 distributions par an, mais il est possible de ne pas prendre de poulet tous les mois. Il est possible de choisir un nombre différent de poulets (0, 1, 2, ...) pour chacune des livraisons.
+
+Il est possible de contractualiser en cours d'année.
+
+Le prix est de 25€ le poulet d'environ 2kg. Le paiement se fait en 1 à 3 fois.
