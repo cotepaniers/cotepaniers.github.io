@@ -27,7 +27,7 @@ Les Trois Parcelles est une exploitation maraîchère et céréalière diversifi
 
 A ce jour, la Ferme des 3 parcelle produit, sur toute l’année, des légumes, des aromatiques, des petits fruits, des fleurs à couper, des céréales (blés anciens, épeautre et sarrasin), des légumineuses (lentilles), du triticale pois (pour nourrir de futures poules), du tournesol (pour huile) et de la luzerne (pour la filière déshydratation et pour occuper les surfaces le temps de la conversion vers l’agriculture biologique).
 
-Les 60 ha de nos champs sont situés au milieu d’une plaine céréalière et au bord de la vallée de la Rimarde.
+Les 60 ha de champs sont situés au milieu d’une plaine céréalière et au bord de la vallée de la Rimarde.
 
 L'objectif principal est la production d’un paysage agricole et alimentaire qui soit respectueux de la faune et la flore, voire permette leur retour et génère de l’emploi tout en séquestrant du carbone.
 
