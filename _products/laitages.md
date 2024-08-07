@@ -4,7 +4,6 @@ subtitle: Bio de la Fromentellerie
 description: Panier de produits laitiers bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/YvesDeFromentel.jpg
 hero_height: is-fullwidth
-product_code: Référente Pascale MASSACRIER
 layout: product
 image: /img/produit_laitages.jpg
 price: A la pièce
@@ -36,26 +35,37 @@ Ainsi, la complémentarité élevage – production végétale est absolument in
 
 ## Le contrat
 
-Le contrat produits laitiers est un contrat pour 6 mois, de janvier à juin et de juillet à décembre.
-Le contrat pour le premier semestre 2020 court du 8 janvier au 24 juin soit 13 distributions, mais il est possible de nous rejoindre en cours d'année.
+Le contrat produits laitiers est un contrat pour 6 mois, en règle générale de janvier à juin et de juillet à décembre; soit environ 13 distributions par semestre. 
+
+Il est possible de contractualer en cours de semestre.
+
 Il est possible de choisir ce que l'on veut pour chaque livraison parmi une liste de produits, et l'on peut choisir des choses différents pour chacune des livraisons. Le paiement se fait en 1 à 3 fois.
 
 Les prix sont les suivants : 
 
 | Produits        | Conditionnement           | Prix  |
 | ------------- |:-------------:| -----:|
-| Lait entier pasteurisé | Bouteille 1 L | 2€ |
-| Yaourt nature étuvé | Pot de 125 g | 0,7€ |
-| Yaourt aromatisé (étuvé) | Pot de 125 g | 0,8€ |
-| Yaourt brassé bi-couche (avec "confiture") | Pot de 125 g | 0,85€ |
-| Fromage blanc lissé au lait entier pasteurisé | Pot de 125 g | 1€ |
-| Fromage blanc lissé au lait entier pasteurisé | Pot de 500 g | 3,3€ |
-| Fromage frais en faisselle au lait entier pasteurisé | Pot de 250 g | 2,8€ |
-| Crème crue | Pot de 250 g | 3,75€ |
-| Tomme à la coupe ou tommette | entre 400g et 550g | 10,45€ |
-| Tomme à la coupe | 250 g | 4,75€ |
-| Tomme rapée | 200 g | 4,4€ |
+| Lait cru | Bouteille 1 L | 1,7€ |
+| Lait entier pasteurisé | Bouteille 1 L | 2,2€ |
+| Lait fermenté | Bouteille 1 L | 1,6€ |
+| Yaourt liquide aromatisé | Bouteille 250 mL | 1,5€ |
+| Yaourt liquide aromatisé | Bouteille 1 L | 4€ |
+| Yaourt nature étuvé | Pot de 125 g | 0,8€ |
+| Yaourt aromatisé (étuvé) | Pot de 125 g | 0,9€ |
+| Yaourt brassé bi-couche (avec "confiture") | Pot de 125 g | 0,95€ |
+| Yaourt nature brassé 1/2 écrémé | Pot de 125 g | 0,75€ |
+| Yaourt brassé aux fruits| Pot de 500 g | 3,15€ |
+| Fromage blanc lissé au lait entier pasteurisé | Pot de 125 g | 1,15€ |
+| Fromage blanc lissé au lait entier pasteurisé | Pot de 500 g | 3,8€ |
+| Fromage blanc brassé aux fruits| Pot de 500 g | 4,5€ |
+| Faisselle au lait entier pasteurisé | Pot de 250 g | 2,9€ |
+| Faisselle au lait entier pasteurisé | Pot de 500 g | 4,5€ |
+| Fromage à tartiner (ail et fines herbes ou saveur des jardins)| Pot de 250 g | 4€ |
+| Crème crue | Pot de 250 g | 3,85€ |
+| Tomme à la coupe ou tommette | entre 400g et 550g | 12,6€ |
+| Tomme à la coupe | 250 g | 6,3€ |
+| Tomme rapée | 150 g | 4,8€ |
 | Petit Beaulieu | ± 400 g | 13€ |
-| Mini-Beaulieu à dorer | 2 pièces | 4,8€ |
-| Bouchons apéritifs | ± 15 pièces | 2,5€ |
+| Mini-Beaulieu à dorer | 2 pièces | 5,5€ |
+| Bouchons apéritifs | ± 15 pièces | 3€ |
 
