@@ -1,15 +1,13 @@
 ---
 title: Panier de légumes bio
 subtitle: Les légumes bio de Bruno
-description: Panier de légumes bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/BrunoLabonne.jpg
 hero_height: is-fullwidth
-product_code: Référente Florence COMBACAL
 layout: product
 image: /img/produit_legumes.jpg
 price: 11,50€ le demi-panier, 23€ le panier
 features:
-    - label: Cultivés à Gravon en Seine-et-Marne
+    - label: Cultivés à Gravon en Seine-et-Marne (77)
       icon: fa-location-arrow
     - label: Des légumes de saison, frais et variés, certifiés bio avec le label AB.
       icon: fa-grin-stars
@@ -32,6 +30,13 @@ Les légumes sont variés et comme ils sont de saison, le panier évolue au cour
 ## Le contrat
 
 Le contrat légumes est un contrat à l'année.
-Le contrat 2022 court du 5 janvier au 21 décembre (sauf le 25/05) soit 50 distributions, mais il est possible de nous rejoindre en cours d'année.
+
+Le contrat contient en général 50 distributions pour une livraison toutes les semaines.
+
+Il est possible de contractualiser en cours d'année.
+
 Engagement fixe de un panier ou un demi panier, toutes les semaines ou une semaine sur deux.
-Le prix est de 11,50€ le demi-panier, paiement en 1 à 12 fois.
+
+Le prix est de 11,50€ le demi-panier - 23€ le panier entier.
+
+Paiement en 1 à 12 fois.
