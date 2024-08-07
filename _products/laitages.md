@@ -1,7 +1,7 @@
 ---
 title: Produits laitiers et fromages
 subtitle: Bio de la Fromentellerie
-hero_image: /img/YvesDeFromentel.jpg
+hero_image: 
 hero_height: is-fullwidth
 layout: product
 image: /img/produit_laitages.jpg
