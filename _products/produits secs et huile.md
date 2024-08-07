@@ -4,8 +4,8 @@ subtitle: de la Ferme des 3 parcelles
 hero_image: /img/YvesDeFromentel.jpg
 hero_height: is-fullwidth
 layout: product
-image: /img/produit_laitages.jpg
-price: A la pièce
+image: /img/pates.jpeg
+price: Quantité définie par livraison
 features:
     - label: Produits à la ferme des 3 parcelles, à Yères-la-Ville dans le Loiret (45)
       icon: fa-location-arrow
