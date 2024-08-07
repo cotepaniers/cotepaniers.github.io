@@ -1,14 +1,13 @@
 ---
 title: Produits laitiers et fromages
 subtitle: Bio de la Fromentellerie
-description: Panier de produits laitiers bio de notre AMAP, agriculture raisonnée, biologique, circuit court.
 hero_image: /img/YvesDeFromentel.jpg
 hero_height: is-fullwidth
 layout: product
 image: /img/produit_laitages.jpg
 price: A la pièce
 features:
-    - label: Produits à la ferme de Beaulieu, à Pécy en Seine et Marne
+    - label: Produits à la ferme de Beaulieu, à Pécy en Seine et Marne (77)
       icon: fa-location-arrow
     - label: Les vaches sont nourries à l’herbe en prairie et au foin produit sur l’exploitation, le lait est de qualité, bio.
       icon: fa-grin-stars
@@ -37,9 +36,11 @@ Ainsi, la complémentarité élevage – production végétale est absolument in
 
 Le contrat produits laitiers est un contrat pour 6 mois, en règle générale de janvier à juin et de juillet à décembre; soit environ 13 distributions par semestre. 
 
-Il est possible de contractualer en cours de semestre.
+Il est possible de contractualiser en cours de semestre.
 
-Il est possible de choisir ce que l'on veut pour chaque livraison parmi une liste de produits, et l'on peut choisir des choses différents pour chacune des livraisons. Le paiement se fait en 1 à 3 fois.
+Il est possible de choisir ce que l'on veut pour chaque livraison parmi une liste de produits, et l'on peut choisir des choses différents pour chacune des livraisons. 
+
+Le paiement se fait en 1 à 3 fois.
 
 Les prix sont les suivants : 
 
