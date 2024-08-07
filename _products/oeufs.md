@@ -1,7 +1,7 @@
 ---
 title: Oeufs bio
 subtitle: Les oeufs bio de Marc
-hero_image: /img/MarcChauvin.jpg
+hero_image: 
 hero_height: is-small
 layout: product
 image: /img/produit_oeufs.jpg
