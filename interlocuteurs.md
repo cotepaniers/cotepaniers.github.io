@@ -25,22 +25,21 @@ Les membres du bureau 2024 sont à votre disposition pour toute question plus sp
 
 - Référent Légumes : Florence Combacal
 - Référente Produits laitiers : Marie-Bérengère Lesellier
-- Référente Oeufs : Manon Laborde
+- Référent Oeufs : Charly Colburn
 - Référent Poulets : Jean-Louis Turbat
-- Gestion des distributions : Cécile Toussaint
+- Référente "Produits secs" / "Fleurs" / "Huile" : Coralie Duplan-Giraud
+- Référente "Pain": Coralie Duplan-Giraud
+- Gestion des distributions : Patrick Meusnier
 - Gestion des relations avec la mairie : Marie-Bérengère Lesellier
-- Gestion des relations avec le réseau AMAP IDF : Matthieu Bédué
-- Gestion des relations avec le Studio Théâtre : Matthieu Bédué
-- Gestion des mails et des paniers intermittents : Remi Franjus
-- Gestion du site : Remi Franjus
-- Gestion du logiciel AmapJ : Matthieu Bédué
-- Gestion du compte Instagram : Jean-François Deroubaix, Marylise Cavois
-- Convivialité : Gérard Ville
+- Gestion des relations avec le réseau AMAP IDF : Sophie Berg
+- Gestion des relations avec le Studio Théâtre : Sophie Berg
+
 
 # Réunions
 
 Des réunions du CA sont organisées régulièrement pour avancer sur l'organisation de l'AMAP : les adhérent·es intéressé·es peuvent participer à ces réunions. Les membres du CA vous en informeront régulièrement lors des distributions ou via le groupe WhatsApp.
 
 
+# Vous souhaitez rejoindre le CA ? 
 
-
+Nous sommes toujours en recherche de personnes volontaires pour donner un coup de main pour la gestion de l'AMAP. Vous êtes intéressé(e)? Alors, contactez-nous par mail : cotepaniers(@)gmail.com ou venez-nous voir lors d'une distribution ! 
