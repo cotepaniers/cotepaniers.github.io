@@ -1,6 +1,6 @@
 ---
 title: Produits
-subtitle: Les produits disponibles à Côté Paniers, l'AMAP de Chaernton.
+subtitle: Les produits disponibles à Côté Paniers, l'AMAP de Charenton.
 layout: product-category
 hero_image: /img/legumesSurBois.jpg
 hero_height: is-small
