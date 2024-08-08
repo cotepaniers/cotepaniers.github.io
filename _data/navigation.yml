@@ -26,6 +26,12 @@
       link: /products/oeufs/
     - name: Poulets
       link: /products/poulets/
+    - name: Produits secs et huile tournesol
+      link: /products/produits secs et huile/
+    - name: Fleurs
+      link: /products/fleurs/
+    - name: Petits fruits rouges
+      link: /products/petits fruits/      
 - name: Adhérer
   link: /adherer/
   dropdown:
