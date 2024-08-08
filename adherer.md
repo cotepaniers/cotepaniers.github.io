@@ -30,7 +30,7 @@ Tous les mecredis de 19h à 20h au Studio Théâtre Charenton, 86 rue de Paris.
 
 ### Adhérez directement en ligne  :
 
-[via HelloAsso](https://www.helloasso.com/associations/cote-paniers-amap-charenton/adhesions/adhesion-cote-paniers-2023)
+[via HelloAsso](https://www.helloasso.com/associations/cote-paniers-amap-charenton/adhesions/adhesion-cote-paniers-2024)
 
 #### Vous avez encore des questions, contactez nous !
 
