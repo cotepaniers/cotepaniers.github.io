@@ -2,7 +2,7 @@
 title: Adhésion en ligne à votre AMAP, rien de plus simple !
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
-hero_image: /img/legumesSurBois.jpg
+hero_image: /img/homepage.jpg
 hero_height: is-small
 show_sidebar: false
 ---
@@ -15,4 +15,4 @@ Le renouvellement d'adhésion se fait en décembre pour un démarrage des contra
 
 Vous pouvez remettre le chèque de cotisation à notre trésorière ou renouveller directement en ligne sur hello asso: https://www.helloasso.com/associations/cote-paniers-amap-charenton/adhesions/adhesion-cote-paniers-2024
 
-#### Bientôt vous pourrez adhérez directement en ligne !
+
