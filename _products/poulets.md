@@ -1,7 +1,7 @@
 ---
 title: Poulets bio
 subtitle: Les poulets bio de Marc
-hero_image: 
+hero_image: /img/homepage.jpg
 hero_height: is-fullwidth
 layout: product
 image: /img/produit_poulets.jpg
