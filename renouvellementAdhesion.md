@@ -13,6 +13,7 @@ Le renouvellement d'adhésion se fait en décembre pour un démarrage des contra
 
 # Vous pouvez adherer par chèque ou directement en ligne
 
-Vous pouvez remettre le chèque de cotisation à notre trésorière ou renouveller directement en ligne sur hello asso: https://www.helloasso.com/associations/cote-paniers-amap-charenton/adhesions/adhesion-cote-paniers-2024
+Vous pouvez remettre le chèque de cotisation à notre trésorière ou renouveller directement en ligne sur hello asso: 
+[via HelloAsso](https://www.helloasso.com/associations/cote-paniers-amap-charenton/adhesions/adhesion-cote-paniers-2024)
 
 
