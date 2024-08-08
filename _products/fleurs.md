@@ -1,7 +1,7 @@
 ---
 title: Fleurs locales et de saison
 subtitle: de la Ferme des 3 parcelles
-hero_image: 
+hero_image: /img/homepage.jpg
 hero_height: is-fullwidth
 layout: product
 image: /img/fleurs.jpg
