@@ -1,7 +1,7 @@
 ---
 title: Panier de légumes bio
 subtitle: Les légumes bio de Bruno
-hero_image: 
+hero_image: /img/homepage.jpg
 hero_height: is-fullwidth
 layout: product
 image: /img/produit_legumes.jpg
