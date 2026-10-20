@@ -1,5 +1,5 @@
 ---
-title: Adhésion en ligne à votre AMAP, rien de plus simple !
+title: Adhérer à notre AMAP
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
 hero_image: /img/homepage.jpg
