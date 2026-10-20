@@ -35,6 +35,10 @@ show_sidebar: false
     <input type="text" name="_replyto" placeholder="Votre Email" required><br>
   </label>
   <label>
+    Vos coordonnées (adresse postale, numéro de téléphone) :<br>
+    <input type="text" name="_replyto" placeholder="Vos coordonnées" required><br>
+  </label>
+  <label>
     Votre message:<br>
     <textarea name="message" rows="10" cols="60" placeholder="Votre message ici..." required></textarea><br>
   </label>
