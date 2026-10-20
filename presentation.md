@@ -32,9 +32,15 @@ Oui, Marc Chauvin a repris l'exploitation de la Ferme de la Cour des Lions (77) 
 
 Marc nous fournit également en poulets bio une fois par mois. La nourriture des poules Lohmann classique est composée de blé issu de sa production de céréales et de maïs bio et de compléments alimentaires.
 
-#### Et un producteur de produits secs (farine, pâtes, légumineuses), huile de tournesol, fleurs et petits fruits (fraises, framboises, cassis, grosseille,..) ?
-Oui, c'est notre dernière collaboration en date. La Ferme des 3 parcelles est une exploitation maraîchère et céréalière diversifiée en agriculture biologique gérée par Simon Ronceray et basée dans le Loiret (45). La totalité des parcelles mises en culture est actuellement en agriculture biologique avec des principes agroécologiques : plantations d’arbres et de fleurs, diversification des espèces et des variétés. 
-Les jeunes cultivatrices et cultivateurs présents sur la ferme produisent une cinquantaine de légumes, une dizaine de fruits rouges, des céréales et légumineuses vendues sur place, en AMAP ainsi qu’à des épiceries et des restaurants. Les céréales nourrissent des poules et sont en transformées en farine, pâtes et pain. Une production de fleurs à couper et aussi présente. 
+#### Un producteur de produits secs (farine, pâtes, légumineuses), huile de tournesol et de pains ?
+Oui, la Ferme des 3 parcelles est une exploitation maraîchère et céréalière diversifiée en agriculture biologique gérée par Simon Ronceray et basée dans le Loiret (45). Ils nous fournissent des céréales (farine, pâtes, ..) et légumineuses ; mais aussi du pain.
+
+##### Et les fruits dans tout ça? On en a: des pommes et des poires! 
+Au fil des saisons vous pouvez retrouver pommes, poires mais aussi des jus à partir des fruits du verger.
+Aux Champs Soisy (91) propose aussi des asperges ponctuellement !
+
+##### Dernière collaboration en date: les champignons
+Tout proche de Charenton (dans le bois de Vincennes), JB MATH cultive des pleurotes, shitakes et autres champignons rares. 
 
 
 #### L’Amap de Charenton, c’est quoi ? c’est qui ?
@@ -61,7 +67,7 @@ Il a été fixé à 17 euros. Ce montant permet de payer l'assurance de l'associ
 Nous pré-payons tous nos paniers d’avance, mais il est possible d'étaler les paiements en plusieurs chèques (jusqu'à 3 à 12 paiements selon les contrats). Ces chèques sont recueilli en début d’année par le référent du contrat, et remis au producteur pour encaissement au fur et à mesure de l'année, aux dates convenues entre l'adhérent et le producteur.
 
 #### Si cela m'intéresse, mais que je ne suis pas sûr de pouvoir m'engager ...
-Vous pouvez dans ce cas proposer de devenir intermittent de l’AMAP (à savoir récupérer occasionnellement un panier quand un adhérent est absent) en vous inscrivant sur la liste des intermittents -> cliquer ici: https://www.cotepaniers.fr/intermittents/ 
+Vous pouvez dans ce cas proposer de devenir intermittent de l’AMAP (à savoir récupérer occasionnellement un panier quand un adhérent est absent) en rejoignant notre canal WHAT'S APP dédié -> cliquer ici: https://www.cotepaniers.fr/intermittents/ 
 
 # Comment tout cela fonctionne dans la pratique?
 
@@ -69,7 +75,7 @@ Vous pouvez dans ce cas proposer de devenir intermittent de l’AMAP (à savoir 
 C’est très simple, vous venez chercher un panier de légumes bio les mercredis de 19h à 20h, soit toutes les semaines, soit tous les 15 jours selon le contrat que vous avez choisi. Suivant les contrats que vous avez établi, vous retirez au même endroit et aux mêmes horaires, des oeufs, des produits laitiers (tous les 15 jours), des poulets (tous les mois), des produits secs (4 fois par an), .... 
 
 #### Combien ça coûte ?
-Le demi panier de légumes bio coûte 11,5€, le panier complet 23€. Les 6 oeufs bio sont à 2.4€. Les produits laitiers sont à la pièce, par exemple 0.8€ le yaourt nature, 0.95€ le yaourt bicouche avec confiture, 2,2€ le litre de lait entier. Le litre d'huile de tournesol bio est à 9€ ; les 2 kg de lentilles (corail, verte, blonde ou beluga) à 18€. Les fleurs à 25€ le bouquet environ.
+Le demi panier de légumes bio coûte 11,5€, le panier complet 23€. Les 6 oeufs bio sont à 2.55€. Les produits laitiers sont à la pièce, par exemple 0.8€ le yaourt nature, 0.95€ le yaourt bicouche avec confiture, 2,2€ le litre de lait entier. Le litre d'huile de tournesol bio est à 9€ ; les 2 kg de lentilles (corail, verte, blonde ou beluga) à 18€. 
 
 #### C’est cher !
 C’est peut-être un peu plus cher qu’au marché (et encore !) mais ce sont des produits issus de l’agriculture biologique... et vous soutenez ainsi financièrement des producteurs à l'année, même en cas d'aléa climatique ou mauvaise récolte !
