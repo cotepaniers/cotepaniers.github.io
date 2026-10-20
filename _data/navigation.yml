@@ -7,8 +7,9 @@
       link: /infosLegales/
     - name: Adhérez à notre AMAP
       link: /adherer/
-    - name: Devenez Intermittent
-      link: /intermittents/    
+    - name: Devenez intermittent
+      link: /intermittents/
+
 - name: Adhérer
   link: /adherer/
   dropdown:
@@ -16,9 +17,12 @@
       link: /adherer/
     - name: Devenir intermittent
       link: /intermittents/
+
 - name: Espace adhérent
   link: https://contrats2.amapj.fr/p/charenton
-    - name: Tutoriel pour l'utilsation d'AmapJ
+  dropdown:
+    - name: Tutoriel pour l'utilisation d'AmapJ
       link: /tutorielAmapJ/
+
 - name: Contact
   link: /contact/
