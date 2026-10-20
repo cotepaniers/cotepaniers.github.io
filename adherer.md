@@ -28,7 +28,7 @@ show_sidebar: false
 # Vous souhaitez adhérer? Contactez-nous: cotepaniers@gmail.com ou remplissez le formulaire ci-dessous
 
 
-<div style="border: 1px solid #000000; background: #DDECCE; padding: 2rem; color: #281D3A; overflow: hidden; font-weight: 600">
+<div style="border: 1px solid #000000; background: #DDECCE; padding: 3rem; color: #281D3A; overflow: hidden; font-weight: 600">
 <form action="https://formspree.io/mwkvakwz" method="POST">
   <label>
     Votre adresse mail:<br>
