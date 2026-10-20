@@ -128,7 +128,9 @@ show_sidebar: false
     >
       Envoyer ma demande
     </button>
-
+<p style="margin-top: 20px; font-size: 14px; font-weight: 600;">
+  Nous vous remercions de patienter quelques jours avant de nous recontacter.
+</p>
   </form>
 </div>
 
