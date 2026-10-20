@@ -5,12 +5,8 @@
       link: /presentation/
     - name: Informations légales
       link: /infosLegales/
-    - name: Adhérez à notre AMAP
-      link: /adherer/
-    - name: Devenez intermittent
-      link: /intermittents/
 
-- name: Adhérer
+- name: Rejoignez-nous !
   link: /adherer/
   dropdown:
     - name: Adhérer
@@ -24,5 +20,5 @@
     - name: Tutoriel pour l'utilisation d'AmapJ
       link: /tutorielAmapJ/
 
-- name: Contact
+- name: Contactez-nous
   link: /contact/
