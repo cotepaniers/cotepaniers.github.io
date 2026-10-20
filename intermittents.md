@@ -15,7 +15,7 @@ Cette démarche permet à des personnes intéressées, mais ne souhaitant pas s'
 
 La transaction reste toutefois entièrement de la responsabilité de l’adhérent, qui doit s’arranger directement avec son acheteur tant pour le paiement que pour la récupération du panier.
 
-Si vous êtes intéressés pour devenir un "intermittent", écrivez nous à cotepaniers(@)gmail.com : nous vous ajouterons à la liste de diffusion et vous recevrez ponctuellement les propositions de paniers disponibles.
+Si vous êtes intéressés pour devenir un "intermittent", rejoignez le canal WHAT'S APP dédié: https://chat.whatsapp.com/DPzLQ5F9tetDvq3RmMY4P4?s=sh&p=i&mlu=4&ilr=4 
 
 
 
