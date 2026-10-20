@@ -1,11 +1,13 @@
 ---
 title: Côté Paniers, l'AMAP de Charenton-le-Pont !
-subtitle: Des paniers bio de légumes, oeufs, poulets, produits laitiers, petits fruits chaque semaine...
-layout: page
+subtitle: Des paniers bio de légumes, oeufs, poulets, produits laitiers, pains, pommes/poires, champignons ...à Charenton !
+layout: product-category
 hero_image: /img/homepage.jpg
 hero_height: is-small
 show_sidebar: false
+sort: ordre
 ---
+
 
 # Qui, quoi ?
 
