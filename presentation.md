@@ -37,11 +37,11 @@ Marc nous fournit également en poulets bio une fois par mois. La nourriture des
 #### Un producteur de produits secs (farine, pâtes, légumineuses), huile de tournesol et de pains ?
 Oui, la Ferme des 3 parcelles est une exploitation maraîchère et céréalière diversifiée en agriculture biologique gérée par Simon Ronceray et basée dans le Loiret (45). Ils nous fournissent des céréales (farine, pâtes, ..) et légumineuses ; mais aussi du pain.
 
-##### Et les fruits dans tout ça? On en a: des pommes et des poires! 
+#### Et les fruits dans tout ça? On en a: des pommes et des poires! 
 Au fil des saisons vous pouvez retrouver pommes, poires mais aussi des jus à partir des fruits du verger.
 Aux Champs Soisy (91) propose aussi des asperges ponctuellement !
 
-##### Dernière collaboration en date: les champignons
+#### Dernière collaboration en date: les champignons
 Tout proche de Charenton (dans le bois de Vincennes), JB MATH cultive des pleurotes, shitakes et autres champignons rares. 
 
 
