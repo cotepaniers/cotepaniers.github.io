@@ -14,11 +14,11 @@
     - name: Devenir intermittent
       link: /intermittents/
 
+- name: Contact
+  link: /contact/
+
 - name: Espace adhérent
   link: https://contrats2.amapj.fr/p/charenton
   dropdown:
     - name: Tutoriel pour l'utilisation d'AmapJ
       link: /tutorielAmapJ/
-
-- name: Contactez-nous
-  link: /contact/
