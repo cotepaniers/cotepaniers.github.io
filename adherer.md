@@ -25,5 +25,5 @@ show_sidebar: false
 
 
 
-# Vous souhaitez adhérer? Contactez-nous: cotepaniers@gmail.com ou remplissez le formulaire -> cliquer ici: https://www.cotepaniers.fr/contact/ 
+# Vous souhaitez adhérer? Contactez-nous: cotepaniers@gmail.com ou remplissez le formulaire ici:[Contact](/contact/)
 
