@@ -7,7 +7,7 @@
       link: /infosLegales/
 
 - name: Rejoignez-nous !
-  link: /adherer/
+  link: /
   dropdown:
     - name: Adhérer
       link: /adherer/
