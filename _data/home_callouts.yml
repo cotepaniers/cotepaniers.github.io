@@ -13,9 +13,9 @@ items:
     description: Soyez informé de paniers dispo ponctuellement, sans vous engager sur la durée...
     call_to_action_name: Rejoindre la liste
     call_to_action_link: /intermittents/
-  - title: Découvrez les produits dispnibles
+  - title: Découvrez notre AMAP : les producteurs et les produits disponibles
     subtitle: dans votre AMAP de Charenton
     icon: fa fa-shopping-basket
-    description: Légumes, Produits laitiers, oeufs, poulets... le tout en circuit court, et bio !
-    call_to_action_name: Les produits disponibles
-    call_to_action_link: /products/
+    description: Légumes, produits laitiers, oeufs, poulets... le tout en circuit court, et bio !
+    call_to_action_name: Découvrir
+    call_to_action_link: /presentation/
