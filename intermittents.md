@@ -9,13 +9,10 @@ show_sidebar: false
 
 # Pour essayer les produits de l'AMAP de Charenton sans vous engager
 
-L’AMAP de Charenton offre à ses adhérents la possibilité de céder leurs paniers à des « sympathisants » inscrits sur une liste d’intermittents intéressés à acquérir un panier de manière ponctuelle.
+L’AMAP de Charenton permet à ses adhérents de céder leurs paniers à des « sympathisants » inscrits sur une liste d’intermittents intéressés par l’achat d’un panier de manière ponctuelle.
 
-Cette démarche permet à des personnes intéressées, mais ne souhaitant pas s'engager dans l'immédiat, de tester le fonctionnement et les produits. Il n'est pas nécessaire d'être adhérent, donc pas de cotisation annuelle à payer.
+Cette démarche permet à des personnes intéressées, mais qui ne souhaitent pas s’engager immédiatement, de tester le fonctionnement de l’AMAP et ses produits. Il n’est pas nécessaire d’être adhérent pour devenir intermittent.
 
-La transaction reste toutefois entièrement de la responsabilité de l’adhérent, qui doit s’arranger directement avec son acheteur tant pour le paiement que pour la récupération du panier.
+La transaction reste toutefois entièrement de la responsabilité de l’adhérent, qui doit s’arranger directement avec son acheteur pour le paiement et la récupération du panier.
 
-Si vous êtes intéressés pour devenir un "intermittent", rejoignez le canal WhatsApp dédié: [ici](https://chat)
-
-
-
+Si vous souhaitez devenir intermittent, rejoignez le canal WhatsApp dédié : [ici](https://chat)
