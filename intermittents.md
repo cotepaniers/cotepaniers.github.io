@@ -15,4 +15,4 @@ Cette démarche permet à des personnes intéressées, mais qui ne souhaitent pa
 
 La transaction reste toutefois entièrement de la responsabilité de l’adhérent, qui doit s’arranger directement avec son acheteur pour le paiement et la récupération du panier.
 
-Si vous souhaitez devenir intermittent, rejoignez le canal WhatsApp dédié : [ici](https://chat)
+Si vous souhaitez devenir intermittent, rejoignez le canal WhatsApp dédié : [ici](https://chat.whatsapp.com/DPzLQ5F9tetDvq3RmMY4P4?s=sh&p=i&mlu=4&ilr=4)
