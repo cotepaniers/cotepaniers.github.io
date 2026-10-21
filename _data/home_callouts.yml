@@ -1,21 +1,21 @@
 style: is-light
 height: is-medium
 items:
-  - title: Retrouvez nous au STC 86 rue de Paris
+  - title: Retrouvez-nous au STC 86 rue de Paris
     subtitle: Les mercredis de 19h à 20h
     icon: fa-users
     description: Nous serons ravis de discuter avec vous sur le fonctionnement de l'AMAP !
     call_to_action_name: Nous contacter
     call_to_action_link: /contact/
   - title: Essayez sans vous engager
-    subtitle: Devenez intermittent
-    icon: fa fa-heart
-    description: Soyez informé(e) de paniers dispo ponctuellement, sans vous engager sur la durée...
+    subtitle: Devenez intermittent du panier
+    icon: fa-heart
+    description: Soyez informé(e) de paniers disponibles ponctuellement, sans vous engager sur la durée...
     call_to_action_name: Rejoindre la liste
     call_to_action_link: /intermittents/
-  - title: Découvrez notre AMAP : les producteurs et les produits disponibles
-    subtitle: dans votre AMAP de Charenton
-    icon: fa fa-shopping-basket
+  - title: Découvrez notre AMAP
+    subtitle: Les producteurs et les produits disponibles
+    icon: fa-shopping-basket
     description: Légumes, produits laitiers, oeufs, poulets, pommes/poires, pain... le tout en circuit court, et bio !
     call_to_action_name: Découvrir
     call_to_action_link: /presentation/
