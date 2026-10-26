@@ -67,6 +67,7 @@ a:hover {
     linear-gradient(90deg, rgba(20, 55, 38, 0.75), rgba(92, 138, 83, 0.38)),
     url('/img/wide_horizontal_illustrated_banner_poster_in_a_cl.png') center/cover no-repeat;
   position: relative;
+  min-height: 280px;
 }
 
 .hero.hero-custom .hero-body {
