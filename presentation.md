@@ -1,7 +1,8 @@
 ---
 title: Côté Paniers, l'AMAP de Charenton-le-Pont !
 subtitle: Des paniers bio de légumes, oeufs, poulets, produits laitiers, pains, pommes/poires, champignons ...à Charenton !
-layout: product-category
+layout: page
+permalink: /presentation/
 hero_image: /img/homepage.jpg
 hero_height: is-small
 show_sidebar: false
@@ -40,7 +41,7 @@ Marc nous fournit également en poulets bio une fois par mois. La nourriture des
 
 **Un producteur de produits secs (farines, pâtes, légumineuses), d’huile de tournesol et de pain ?**
 
-Oui. La Ferme des 3 parcelles est une exploitation maraîchère et céréalière diversifiée, gérée par Simon Ronceray et basée dans le Loiret. Ils nous fournissent des produits secs, de l’huile de tournesol et du pain, dans le cadre d’une agriculture biologique.
+Oui. La Ferme des 3 parcelles est une exploitation maraîchère et céréalière diversifiée, gérée par Simon Ronceray et basée dans le Loiret. Ils nous fournissent des produits secs, de l’huile de tournesol et du pain bio de qualité.
 
 **Et les fruits dans tout ça ? On en a : des pommes et des poires !**
 
@@ -52,13 +53,13 @@ Tout près de Charenton, dans le bois de Vincennes, JB MATH cultive des pleurote
 
 **L’Amap de Charenton, c’est quoi ? C’est qui ?**
 
-C’est une association loi de 1901, qui adhère à la charte des AMAP et qui a pour objectif d’organiser la distribution des paniers pour les habitants de Charenton-le-Pont. Elle fonctionne depuis 2011 et réunit des personnes soucieuses de soutenir des producteurs bio et de participer à une démarche solidaire.
+C’est une association loi de 1901, qui adhère à la charte des AMAP et qui a pour objectif d’organiser la distribution des paniers pour les habitants de Charenton-le-Pont. Elle fonctionne depuis plusieurs années autour d’une équipe de bénévoles, de producteurs partenaires et d’adhérents engagés dans une démarche de consommation responsable.
 
 **Comment je fais pour en être ?**
 
 **Comment je m’inscris ?**
 
-Nous sommes toujours heureux d’accueillir de nouveaux adhérents, désireux de participer à un mieux-vivre et à un mieux-être. Habituellement, les adhésions se font en fin d’année pour l’année suivante.
+Nous sommes toujours heureux d’accueillir de nouveaux adhérents, désireux de participer à un mieux-vivre et à un mieux-être. Habituellement, les adhésions se font en fin d’année pour l’année suivante, mais il est aussi possible de se renseigner à tout moment pour connaître les prochains délais d’inscription.
 
 **C’est tout ?**
 
@@ -74,15 +75,15 @@ En cas de force majeure, il est évidemment possible de mettre fin au contrat.
 
 **Quel est le prix de l’adhésion à l’association ?**
 
-Il a été fixé à 17 euros. Ce montant permet de couvrir l’assurance de l’association, l’adhésion au réseau AMAP Ile-de-France, le fonctionnement du site, l’achat de matériel (tables, balances, etc.) et d’autres frais de fonctionnement.
+Il a été fixé à 17 euros. Ce montant permet de couvrir l’assurance de l’association, l’adhésion au réseau AMAP Ile-de-France, le fonctionnement du site, l’achat de matériel (tables, cabas, etc.) et l’organisation de la distribution.
 
 **Comment se font les règlements des paniers ?**
 
-Nous pré-payons tous nos paniers d’avance, mais il est possible d’étaler les paiements en plusieurs chèques, jusqu’à 3 ou 12 paiements selon les contrats. Ces chèques sont recueillis au début de l’année.
+Nous pré-payons tous nos paniers d’avance, mais il est possible d’étaler les paiements en plusieurs chèques, jusqu’à 3 ou 12 paiements selon les contrats. Ces chèques sont recueillis au moment de la signature du contrat.
 
 **Si cela m’intéresse, mais que je ne suis pas sûr de pouvoir m’engager...**
 
-Vous pouvez alors proposer de devenir intermittent de l’AMAP, c’est-à-dire récupérer occasionnellement un panier quand un adhérent est absent. Pour cela, rejoignez notre canal WhatsApp dédié.
+Vous pouvez alors proposer de devenir intermittent de l’AMAP, c’est-à-dire récupérer occasionnellement un panier quand un adhérent est absent. Pour cela, rejoignez notre canal WhatsApp dédié ou contactez l’association.
 
 **Comment tout cela fonctionne dans la pratique ?**
 
@@ -92,27 +93,27 @@ C’est très simple : vous venez chercher votre panier de légumes bio les merc
 
 **Combien ça coûte ?**
 
-Le demi-panier de légumes bio coûte 11,5 €, le panier complet 23 €. Les 6 œufs bio sont à 2,55 €. Les produits laitiers sont vendus à l’unité, par exemple 0,80 € pour un yaourt nature, 0,95 € pour un yaourt aux fruits.
+Le demi-panier de légumes bio coûte 11,5 €, le panier complet 23 €. Les 6 œufs bio sont à 2,55 €. Les produits laitiers sont vendus à l’unité, par exemple 0,80 € pour un yaourt nature ou 3,90 € pour un camembert.
 
 **C’est cher !**
 
-C’est peut-être un peu plus cher qu’au marché, et encore ! Mais ces produits sont issus de l’agriculture biologique, et vous soutenez ainsi des producteurs à l’année, engagés dans une agriculture plus respectueuse de l’environnement et de la qualité.
+C’est peut-être un peu plus cher qu’au marché, et encore ! Mais ces produits sont issus de l’agriculture biologique, et vous soutenez ainsi des producteurs à l’année, engagés dans une démarche de qualité, de proximité et de respect de l’environnement.
 
 **Qu’est-ce qu’il y a dans le panier de légumes ?**
 
-La composition des paniers varie au cours de l’année, puisque son contenu suit les saisons. Au printemps et en été, les paniers sont souvent plus fournis, avec des légumes comme des tomates, des courgettes, des salades, des radis, des poireaux, etc.
+La composition des paniers varie au cours de l’année, puisque son contenu suit les saisons. Au printemps et en été, les paniers sont souvent plus fournis, avec des légumes comme des tomates, courgettes, salades ou herbes aromatiques.
 
 Notre producteur maintient une certaine diversité et propose au moins 4 ou 5 légumes différents chaque semaine.
 
 **Comment se passent les distributions ?**
 
-Les producteurs apportent les légumes en cageots, les œufs dans un carton, les produits laitiers dans des glacières, et les personnes chargées de la distribution constituent les paniers selon les commandes.
+Les producteurs apportent les légumes en cageots, les œufs dans un carton, les produits laitiers dans des glacières, et les personnes chargées de la distribution constituent les paniers selon les commandes et les besoins.
 
 Il faut penser à amener vos sacs ou cabas pour récupérer ces bons aliments : on ne vous donnera pas de sacs plastiques !
 
 **Et si je suis absent ?**
 
-Vous pouvez envoyer quelqu’un à votre place pour récupérer votre panier, à condition de prévenir les responsables de la distribution du jour. Vous pouvez également proposer votre panier à un autre adhérent.
+Vous pouvez envoyer quelqu’un à votre place pour récupérer votre panier, à condition de prévenir les responsables de la distribution du jour. Vous pouvez également proposer votre panier à un autre adhérent ou demander à être mis en contact avec l’équipe.
 
 **Qui fait la distribution ?**
 
