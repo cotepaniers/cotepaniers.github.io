@@ -7,5 +7,5 @@
 // Import Bulma block-list helper used by the theme
 @import "../../node_modules/bulma-block-list/src/block-list";
 
-// Import local theme CSS
-@import "main";
+// Import local theme CSS from the Jekyll Sass source directory
+@import "../../_sass/main";
