@@ -1,36 +1,66 @@
 .hero.hero-custom {
+  position: relative;
   border-radius: 0;
-  box-shadow: inset 0 0 0 9999px rgba(17, 92, 39, 0.16);
+  box-shadow: inset 0 0 0 9999px rgba(17, 92, 39, 0.12);
+  background-color: #e8f0e3;
 }
 
 .hero.hero-custom .hero-body {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
   min-height: 520px;
-  padding: 4rem 1.5rem;
+  padding: 3rem 1.5rem;
+}
+
+.hero.hero-custom .container {
+  width: 100%;
+}
+
+.hero.hero-custom .hero-inner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.hero.hero-custom .hero-copy {
+  max-width: 620px;
 }
 
 .hero.hero-custom .title,
 .hero.hero-custom .subtitle {
   color: #ffffff;
-  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
-  max-width: 620px;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.38);
 }
 
 .hero.hero-custom .title {
-  font-size: clamp(2.2rem, 4vw, 4rem);
-  line-height: 1.1;
+  margin-bottom: 0.75rem;
+  font-size: clamp(2.1rem, 4vw, 4rem);
+  line-height: 1.08;
 }
 
 .hero.hero-custom .subtitle {
-  font-size: clamp(1.1rem, 2vw, 2rem);
+  margin-top: 0;
+  font-size: clamp(1.05rem, 2vw, 2rem);
   line-height: 1.3;
+}
+
+.hero.hero-custom .button {
+  margin-top: 0.75rem;
 }
 
 @media screen and (max-width: 768px) {
   .hero.hero-custom .hero-body {
     min-height: 420px;
-    padding: 3rem 1.2rem;
+    padding: 2.5rem 1.2rem;
+  }
+
+  .hero.hero-custom .hero-inner {
+    justify-content: center;
+  }
+
+  .hero.hero-custom .hero-copy {
+    max-width: 100%;
+    text-align: center;
   }
 }
