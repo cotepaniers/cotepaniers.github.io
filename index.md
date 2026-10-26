@@ -11,6 +11,4 @@ hero_link_text: Rejoignez nous !
 ---
 
 
-<iframe src="http://player.vimeo.com/video/145967023" frameborder="0" height="360" width="100%" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
 
