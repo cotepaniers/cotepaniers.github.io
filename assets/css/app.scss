@@ -1,5 +1,11 @@
 ---
 ---
 
-// Import Main CSS file from theme
+// Import Bulma framework
+@import "../../node_modules/bulma/bulma";
+
+// Import Bulma block-list helper used by the theme
+@import "../../node_modules/bulma-block-list/src/block-list";
+
+// Import local theme CSS
 @import "main";
