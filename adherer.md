@@ -2,7 +2,7 @@
 title: Adhérer à notre AMAP
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
-hero_image: /img/homepage.jpg
+hero_image: /img/wide_horizontal_illustrated_banner_poster_in_a_cl.png
 hero_height: is-small
 show_sidebar: false
 ---

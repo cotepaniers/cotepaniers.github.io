@@ -3,7 +3,7 @@ title: Côté Paniers, l'AMAP de Charenton-le-Pont !
 subtitle: Des paniers bio de légumes, oeufs, poulets, produits laitiers, pains, pommes/poires, champignons ...à Charenton !
 layout: page
 permalink: /presentation/
-hero_image: /img/homepage.jpg
+hero_image: /img/wide_horizontal_illustrated_banner_poster_in_a_cl.png
 hero_height: is-small
 show_sidebar: false
 sort: ordre
@@ -40,93 +40,3 @@ Oui. Marc Chauvin a repris l’exploitation de la Ferme de la Cour des Lions dep
 Marc nous fournit également en poulets bio une fois par mois. La nourriture des poules est composée de blé issu de sa production de céréales, de maïs bio et de compléments alimentaires bio.
 
 **Un producteur de produits secs (farines, pâtes, légumineuses), d’huile de tournesol et de pain ?**
-
-Oui. La Ferme des 3 parcelles est une exploitation maraîchère et céréalière diversifiée, gérée par Simon Ronceray et basée dans le Loiret. Ils nous fournissent des produits secs, de l’huile de tournesol et du pain bio de qualité.
-
-**Et les fruits dans tout ça ? On en a : des pommes et des poires !**
-
-Au fil des saisons, vous pouvez retrouver des pommes, des poires, mais aussi des jus à partir des fruits du verger. Aux Champs Soisy (91), nous proposons aussi des asperges ponctuellement.
-
-**Dernière collaboration en date : les champignons**
-
-Tout près de Charenton, dans le bois de Vincennes, JB MATH cultive des pleurotes, des shiitakes et d’autres champignons rares.
-
-**L’Amap de Charenton, c’est quoi ? C’est qui ?**
-
-C’est une association loi de 1901, qui adhère à la charte des AMAP et qui a pour objectif d’organiser la distribution des paniers pour les habitants de Charenton-le-Pont. Elle fonctionne depuis plusieurs années autour d’une équipe de bénévoles, de producteurs partenaires et d’adhérents engagés dans une démarche de consommation responsable.
-
-**Comment je fais pour en être ?**
-
-**Comment je m’inscris ?**
-
-Nous sommes toujours heureux d’accueillir de nouveaux adhérents, désireux de participer à un mieux-vivre et à un mieux-être. Habituellement, les adhésions se font en fin d’année pour l’année suivante, mais il est aussi possible de se renseigner à tout moment pour connaître les prochains délais d’inscription.
-
-**C’est tout ?**
-
-Non. Vous devez aussi signer un contrat d’engagement avec un ou plusieurs de nos producteurs. Cela permet de poser des bases solides et de formaliser la relation entre l’adhérent et le producteur.
-
-**Quelle est la période d’engagement ?**
-
-Les contrats sont établis sur une année pour les légumes, les œufs, les poulets, les produits secs, l’huile de tournesol, les fleurs et les petits fruits.
-
-Ils sont de 6 mois pour les produits laitiers, ce qui laisse plus de souplesse pour intégrer de nouveaux produits au fil du temps.
-
-En cas de force majeure, il est évidemment possible de mettre fin au contrat.
-
-**Quel est le prix de l’adhésion à l’association ?**
-
-Il a été fixé à 17 euros. Ce montant permet de couvrir l’assurance de l’association, l’adhésion au réseau AMAP Ile-de-France, le fonctionnement du site, l’achat de matériel (tables, cabas, etc.) et l’organisation de la distribution.
-
-**Comment se font les règlements des paniers ?**
-
-Nous pré-payons tous nos paniers d’avance, mais il est possible d’étaler les paiements en plusieurs chèques, jusqu’à 3 ou 12 paiements selon les contrats. Ces chèques sont recueillis au moment de la signature du contrat.
-
-**Si cela m’intéresse, mais que je ne suis pas sûr de pouvoir m’engager...**
-
-Vous pouvez alors proposer de devenir intermittent de l’AMAP, c’est-à-dire récupérer occasionnellement un panier quand un adhérent est absent. Pour cela, rejoignez notre canal WhatsApp dédié ou contactez l’association.
-
-**Comment tout cela fonctionne dans la pratique ?**
-
-**Comment ça marche ?**
-
-C’est très simple : vous venez chercher votre panier de légumes bio les mercredis de 19h à 20h, soit chaque semaine, soit tous les 15 jours selon le contrat choisi. La composition dépend des saisons et des produits disponibles.
-
-**Combien ça coûte ?**
-
-Le demi-panier de légumes bio coûte 11,5 €, le panier complet 23 €. Les 6 œufs bio sont à 2,55 €. Les produits laitiers sont vendus à l’unité, par exemple 0,80 € pour un yaourt nature ou 3,90 € pour un camembert.
-
-**C’est cher !**
-
-C’est peut-être un peu plus cher qu’au marché, et encore ! Mais ces produits sont issus de l’agriculture biologique, et vous soutenez ainsi des producteurs à l’année, engagés dans une démarche de qualité, de proximité et de respect de l’environnement.
-
-**Qu’est-ce qu’il y a dans le panier de légumes ?**
-
-La composition des paniers varie au cours de l’année, puisque son contenu suit les saisons. Au printemps et en été, les paniers sont souvent plus fournis, avec des légumes comme des tomates, courgettes, salades ou herbes aromatiques.
-
-Notre producteur maintient une certaine diversité et propose au moins 4 ou 5 légumes différents chaque semaine.
-
-**Comment se passent les distributions ?**
-
-Les producteurs apportent les légumes en cageots, les œufs dans un carton, les produits laitiers dans des glacières, et les personnes chargées de la distribution constituent les paniers selon les commandes et les besoins.
-
-Il faut penser à amener vos sacs ou cabas pour récupérer ces bons aliments : on ne vous donnera pas de sacs plastiques !
-
-**Et si je suis absent ?**
-
-Vous pouvez envoyer quelqu’un à votre place pour récupérer votre panier, à condition de prévenir les responsables de la distribution du jour. Vous pouvez également proposer votre panier à un autre adhérent ou demander à être mis en contact avec l’équipe.
-
-**Qui fait la distribution ?**
-
-C’est vous ! Pas à chaque fois. Les équipes sont constituées sur la base du volontariat à tour de rôle. En général, vous êtes sollicités environ 5 fois par an.
-
-C’est aussi une belle occasion de rencontrer les producteurs, mais aussi les autres adhérents de l’AMAP Côté Paniers.
-
-**Ça se passe où, et quand ?**
-
-Les distributions ont lieu tous les mercredis, de 19h à 20h, au
-
-Studio Théâtre de Charenton  
-86 rue de Paris  
-94220 Charenton-le-Pont
-
-La fréquence des livraisons et les informations générales sont précisées sur la page de chaque producteur.
