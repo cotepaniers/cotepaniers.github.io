@@ -77,16 +77,17 @@ a:hover {
 
 .hero.hero-custom {
   background: url('/img/wide_horizontal_illustrated_banner_poster_in_a_cl.png') center/cover no-repeat;
+  background-position: center center;
   position: relative;
-  min-height: 220px;
+  min-height: 300px;
 }
 
 .hero.hero-custom.is-large {
-  min-height: 220px;
+  min-height: 300px;
 }
 
 .hero.hero-custom .hero-body {
-  min-height: 290px;
+  min-height: 300px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -181,8 +182,16 @@ a:hover {
 }
 
 @media screen and (max-width: 768px) {
+  .hero.hero-custom {
+    min-height: 260px;
+  }
+
+  .hero.hero-custom.is-large {
+    min-height: 260px;
+  }
+
   .hero.hero-custom .hero-body {
-    min-height: 240px;
+    min-height: 260px;
     padding: 3rem 1.2rem 0.75rem;
   }
 }
