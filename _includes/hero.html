@@ -1,13 +1,17 @@
-<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary hero-custom" {% if page.hero_image %} style="background: linear-gradient(rgba(24, 55, 40, 0.5), rgba(24, 55, 40, 0.55)), url('{{ page.hero_image | prepend: site.baseurl }}') center center / cover no-repeat;"{% endif %}>
+<section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary hero-custom" {% if page.hero_image %} style="background: url('{{ page.hero_image | prepend: site.baseurl }}') center/cover no-repeat;" {% endif %}>
     <div class="hero-body">
         <div class="container">
             <p class="title is-2">{{ page.title }}</p>
             {% if page.subtitle %}
                 <p class="subtitle is-3">{{ page.subtitle }}</p>
             {% endif %}
-            {% if page.hero_link %}
-                <a href="{{ page.hero_link | prepend: site.baseurl }}" class="button is-primary is-large">{{ page.hero_link_text }}</a>
-            {% endif %}
         </div>
     </div>
+    {% if page.hero_link %}
+        <div class="hero-cta">
+            <div class="container">
+                <a href="{{ page.hero_link | prepend: site.baseurl }}" class="button is-primary is-large">{{ page.hero_link_text }}</a>
+            </div>
+        </div>
+    {% endif %}
 </section>
