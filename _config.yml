@@ -78,12 +78,16 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - node_modules
 
 livereload: true
 
 sass:
   style: compressed
   source_dir: _sass
+  load_paths:
+    - .
+    - node_modules
 
 google_analytics: UA-155306021-1
 
