@@ -9,12 +9,12 @@
 }
 
 .hero.hero-custom:not(.home-hero) {
-  background-position: center top;
+  background-position: center 4rem;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
   margin-left: calc(50% - 50vw);
-  padding-top: 3rem;
+  padding-top: 4rem;
 }
 
 .hero.hero-custom.home-hero .hero-body {
@@ -24,8 +24,8 @@
 }
 
 .hero.hero-custom:not(.home-hero) .hero-body {
-  min-height: 220px;
-  padding-top: 2rem;
+  min-height: 260px;
+  padding-top: 2.5rem;
   padding-bottom: 2rem;
 }
 
