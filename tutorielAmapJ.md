@@ -2,7 +2,7 @@
 title: Adhésion en ligne à votre AMAP, rien de plus simple !
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
-hero_image: /img/homepage.jpg
+hero_image: /img/bannière_pages
 hero_height: is-small
 show_sidebar: false
 ---
@@ -53,16 +53,3 @@ cliquant dans le menu de gauche sur "Mes Permanences", vous obtenez alors la pag
 ![AmapJ Ecran Mes Permanences](/img/Amapj_ecranMesPermanences_900x341.png)
 
 Il y a un bouton "S'inscrire" qui vous permet de choisir de nouvelles dates de permanences.  Vous pouvez vous inscrire aussi longtemps à l'avance que vous voulez.
-
-Si vous voyez que vous avez finalement un empêchement, vous pouvez modifier votre inscription aux distributions :  
-+ directement dans AmapJ si vous modifiez plus de 8 jours avant la permanence
-+ en demandant à un-e autre Amapien-ne de vous remplacer et en envoyant l'information par mail à cotepaniers (@) gmail.com si c'est moins de 8 jours avant la distribution
-
-
-## Comment contacter les autres Amapien-ne-s ?
-
-Dans AmapJ, dans le menu de gauche : "liste des adhérents", les noms et adresses mail des adhérents sont accessibles.
-
-Les noms des référents est également indiqué contrat par contrat dans AmapJ, menu de gauche, "Producteurs / Référents"; leur mail est dans la liste des adhérents.
-
-## TODO : renouvellement des contrats en fin d'année

@@ -2,7 +2,7 @@
 title: Intermittent, des paniers occasionnels, sans engagement !
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
-hero_image: /img/flyerAmapCharenton.jpg
+hero_image: /img/bannière_pages
 hero_height: is-small
 show_sidebar: false
 ---

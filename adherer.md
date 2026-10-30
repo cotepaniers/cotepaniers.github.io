@@ -2,7 +2,7 @@
 title: Adhérer à notre AMAP
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
-hero_image: /img/homepage.jpg
+hero_image: /img/bannière_pages
 hero_height: is-small
 show_sidebar: false
 ---
@@ -26,4 +26,3 @@ show_sidebar: false
 
 
 # Vous souhaitez adhérer? Contactez-nous: cotepaniers@gmail.com ou remplissez le [formulaire ici](/contact/)
-

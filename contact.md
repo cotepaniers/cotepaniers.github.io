@@ -2,7 +2,7 @@
 title: Côté Paniers, l'AMAP de Charenton-le-Pont !
 subtitle: Des paniers de légumes bio, oeufs, produits laitiers chaque semaine...
 layout: page
-hero_image: /img/homepage.jpg
+hero_image: /img/bannière_pages
 hero_height: is-fullwidth
 show_sidebar: false
 ---
@@ -86,40 +86,3 @@ Vous pouvez passer n'importe quel mercredi de 19h à 20h au Studio Théâtre Cha
     <br>
 
     <label for="frequence">
-      Quelle fréquence souhaitez-vous ?<br>
-      <select
-        id="frequence"
-        name="frequence"
-        required
-        style="width: 100%; max-width: 500px; padding: 10px; margin: 8px 0 16px; box-sizing: border-box; color: #281D3A;"
-      >
-        <option value="" disabled selected>Choisissez une fréquence</option>
-        <option value="Hebdomadaire">Chaque semaine</option>
-        <option value="Bimensuelle">Toutes les deux semaines</option>
-      </select>
-    </label>
-    <br>
-
-    <label for="message">
-      Votre message complémentaire :<br>
-      <textarea
-        id="message"
-        name="message"
-        rows="5"
-        placeholder="Vos précisions, questions ou demandes particulières..."
-        style="width: 100%; max-width: 500px; padding: 10px; margin: 8px 0 16px; box-sizing: border-box;"
-      ></textarea>
-    </label>
-    <br>
-
-    <button
-      type="submit"
-      style="font-size: 18px; font-weight: 600; background: #281D3A; color: #FFFFFF; border: none; padding: 12px 24px; cursor: pointer;"
-    >
-      Envoyer ma demande
-    </button>
-<p style="margin-top: 20px; font-size: 14px; font-weight: 600;">
-  Nous vous remercions de patienter quelques jours avant de nous recontacter.
-</p>
-  </form>
-</div>
