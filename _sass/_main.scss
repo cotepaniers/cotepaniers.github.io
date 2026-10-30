@@ -11,3 +11,17 @@
   padding-top: 2rem;
   padding-bottom: 1rem;
 }
+
+.home-hero .hero-body .column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.home-hero .hero-body .column .button {
+  margin-top: 0.35rem;
+}
+
+.home-hero .hero-body .column .content {
+  margin-bottom: 0.35rem;
+}
