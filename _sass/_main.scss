@@ -1,9 +1,11 @@
 .hero.hero-custom.home-hero {
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-origin: content-box;
-  padding: 1.25rem;
+  padding: 0;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
 }
 
 .hero.hero-custom.home-hero .hero-body {
