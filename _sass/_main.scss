@@ -24,12 +24,17 @@
 }
 
 .hero.hero-custom:not(.home-hero) .hero-body {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
   min-height: 340px;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
 }
 
 .hero.hero-custom:not(.home-hero) .hero-body .container {
+  width: min(48%, 520px);
+  margin-right: clamp(1.5rem, 6vw, 6rem);
   display: flex;
   flex-direction: column;
   justify-content: center;
