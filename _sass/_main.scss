@@ -29,6 +29,20 @@
   padding-bottom: 2.5rem;
 }
 
+.hero.hero-custom:not(.home-hero) .hero-body .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero.hero-custom:not(.home-hero) .title,
+.hero.hero-custom:not(.home-hero) .subtitle {
+  color: #163f2a;
+  text-align: center;
+}
+
 .home-hero .hero-body .column {
   display: flex;
   flex-direction: column;
