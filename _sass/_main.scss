@@ -75,3 +75,43 @@
 .home-hero .hero-body .column .content {
   margin-bottom: 0.35rem;
 }
+
+@media (max-width: 768px) {
+  .hero.hero-custom.home-hero,
+  .hero.hero-custom:not(.home-hero) {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .hero.hero-custom.home-hero {
+    min-height: 260px;
+  }
+
+  .hero.hero-custom.home-hero .hero-body {
+    min-height: 260px;
+    padding: 1.5rem 1rem;
+  }
+
+  .hero.hero-custom:not(.home-hero) {
+    padding-top: 1.5rem;
+  }
+
+  .hero.hero-custom:not(.home-hero) .hero-body {
+    min-height: 220px;
+    padding: 1.5rem 0.75rem;
+  }
+
+  .hero.hero-custom:not(.home-hero) .hero-body .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 0.5rem;
+  }
+
+  .hero.hero-custom:not(.home-hero) .title {
+    font-size: clamp(1.8rem, 7vw, 2.6rem);
+  }
+
+  .hero.hero-custom:not(.home-hero) .subtitle {
+    font-size: clamp(1rem, 4vw, 1.4rem);
+  }
+}
