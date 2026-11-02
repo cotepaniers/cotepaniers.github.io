@@ -81,6 +81,8 @@
   .hero.hero-custom:not(.home-hero) {
     width: 100%;
     margin-left: 0;
+    background-size: cover;
+    background-position: center center;
   }
 
   .hero.hero-custom.home-hero {
@@ -89,29 +91,33 @@
 
   .hero.hero-custom.home-hero .hero-body {
     min-height: 260px;
-    padding: 1.5rem 1rem;
+    padding: 1.5rem 0.75rem;
   }
 
   .hero.hero-custom:not(.home-hero) {
-    padding-top: 1.5rem;
+    padding-top: 1rem;
   }
 
   .hero.hero-custom:not(.home-hero) .hero-body {
     min-height: 220px;
-    padding: 1.5rem 0.75rem;
+    padding: 1.25rem 0.5rem;
+    justify-content: center;
   }
 
   .hero.hero-custom:not(.home-hero) .hero-body .container {
     width: 100%;
     max-width: 100%;
     padding: 0 0.5rem;
+    margin: 0;
   }
 
   .hero.hero-custom:not(.home-hero) .title {
-    font-size: clamp(1.8rem, 7vw, 2.6rem);
+    font-size: clamp(1.8rem, 9vw, 2.5rem);
+    line-height: 1.1;
   }
 
   .hero.hero-custom:not(.home-hero) .subtitle {
     font-size: clamp(1rem, 4vw, 1.4rem);
+    line-height: 1.2;
   }
 }
