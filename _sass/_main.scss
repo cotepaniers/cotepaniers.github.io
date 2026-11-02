@@ -34,6 +34,7 @@
 
 .hero.hero-custom:not(.home-hero) .hero-body .container {
   width: min(48%, 520px);
+  max-width: 320px;
   margin-right: clamp(1.5rem, 6vw, 6rem);
   display: flex;
   flex-direction: column;
@@ -46,6 +47,18 @@
 .hero.hero-custom:not(.home-hero) .subtitle {
   color: #163f2a;
   text-align: center;
+  max-width: 100%;
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.hero.hero-custom:not(.home-hero) .title {
+  margin-bottom: 0.5rem;
+}
+
+.hero.hero-custom:not(.home-hero) .subtitle {
+  margin-top: 0;
 }
 
 .home-hero .hero-body .column {
